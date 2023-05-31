@@ -3,30 +3,30 @@
   $posts = [
     [
       'id' => 1,
-      'title' => 'Programando em PHP',
-      'description' => 'Neste post você vai aprender tudo que precisa para ser um bom programador de PHP!',
+      'title' => 'Atividades Expressões Numéricas',
+      'description' => 'Neste post você vai aprender tudo de expressões númericas com 100 exercícios!',
       'tags' => ['programação', 'PHP', 'lógica de programação'],
-      'img' => 'prog-1.jpg'
+      'img' => 'img1.jpg'
     ],
     [
       'id' => 2,
       'title' => 'Orientação a Objetos com Java',
-      'description' => 'Aprenda o paradigma de orientação a objetos com Java, uma linguagem em alta no mercado.',
+      'description' => 'Neste post você vai aprender tudo de Potências com 200 exercícios!',
       'tags' => ['Java', 'OOP', 'Programação Avançada'],
-      'img' => 'prog-2.jpg'
+      'img' => 'img2.jpg'
     ],
     [
       'id' => 3,
       'title' => 'A importância da lógica de programação',
-      'description' => 'A lógica de programação é o ponto inicial de muitos estudantes de programação, será que é importante?',
+      'description' => 'Neste post você vai aprender tudo de Monômios com 150 exercícios!',
       'tags' => ['lógica', 'programação', 'algoritmos'],
-      'img' => 'prog-3.jpg',
+      'img' => 'img3.jpg',
     ],
     [
       'id' => 4,
       'title' => 'Programando em PHP',
-      'description' => 'Neste post você vai aprender tudo que precisa para ser um bom programador de PHP!',
+      'description' => 'Neste post você vai aprender tudo de Polinômios com 250 exercícios!',
       'tags' => ['programação', 'PHP', 'lógica de programação'],
-      'img' => 'prog-4.jpg'
+      'img' => 'img4.jpg'
     ],
   ];
