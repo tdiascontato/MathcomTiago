@@ -1,32 +1,31 @@
 <?php
-
   $posts = [
     [
       'id' => 1,
-      'title' => 'Atividades Expressões Numéricas',
+      'title' => 'Atividades Expressões Numéricas!',
       'description' => 'Neste post você vai aprender tudo de expressões númericas com 100 exercícios!',
-      'tags' => ['programação', 'PHP', 'lógica de programação'],
-      'img' => 'img1.jpg'
+      'tags' => ['Operacoes Numericas', 'Operacoes com fracoes', 'Potencias'],
+      'img' => 'img1.png'
     ],
     [
       'id' => 2,
-      'title' => 'Orientação a Objetos com Java',
+      'title' => 'Conteúdo de Regra de 3!',
       'description' => 'Neste post você vai aprender tudo de Potências com 200 exercícios!',
-      'tags' => ['Java', 'OOP', 'Programação Avançada'],
-      'img' => 'img2.jpg'
+      'tags' => ['Operacoes Numericas', 'Operacoes com fracoes', 'Regra de 3'],
+      'img' => 'img2.png'
     ],
     [
       'id' => 3,
-      'title' => 'A importância da lógica de programação',
+      'title' => 'Exercícios de Frações!',
       'description' => 'Neste post você vai aprender tudo de Monômios com 150 exercícios!',
-      'tags' => ['lógica', 'programação', 'algoritmos'],
-      'img' => 'img3.jpg',
+      'tags' => ['Potencias', 'Radiciacao', 'Regra de 3'],
+      'img' => 'img3.png',
     ],
     [
       'id' => 4,
-      'title' => 'Programando em PHP',
+      'title' => 'Questões de Polinômios e Monômios!',
       'description' => 'Neste post você vai aprender tudo de Polinômios com 250 exercícios!',
-      'tags' => ['programação', 'PHP', 'lógica de programação'],
-      'img' => 'img4.jpg'
+      'tags' => ['Potencias', 'Radiciacao', 'Momomios', 'Polinomios'],
+      'img' => 'img4.png'
     ],
   ];
